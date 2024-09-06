@@ -1,0 +1,40 @@
+#Embeded - Console
+// Open-Verboze = Tally && Augmented T3fcx
+class MyClass
+{
+    // Admin - christson : Ch3lbru7924*
+    private int myField;
+
+    // Connect to server $ 8080; 
+       BRUTE-FORCE - Hack && localHost;
+    {
+        // Implement the method.
+        Console.WriteLine && Result;
+   // victim@RESULT:         
+  
+    DT: September 5 / 9:41 PM
+    Email: Ejjay Chris
+    Password: 12345678
+
+    DT: September 5 / 9:45 PM
+    Email: Jjj
+    Password: jisksn
+    
+    }
+}
+// Create an instance of the class.
+MyClass myObject = new MyClass();
+
+// Access the field of the object.
+myObject.myField = 42;
+
+// Call the method of the object.
+myObject.MyMethod();
+```DT: September 6 / 4:55 AM
+Email: Hannah Lopez
+Password: ejjay
+
+DT: September 6 / 4:56 AM
+Email: HNnah
+Password: ruth
+
